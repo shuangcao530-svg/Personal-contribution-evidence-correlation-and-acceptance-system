@@ -1,0 +1,12 @@
+frontend/node_modules/
+frontend/dist/
+backend/target/
+backend/data/
+backend/uploads/
+.runtime/
+*.log
+*.pid
+.DS_Store
+.idea/
+*.iml
+frontend/.npm-cache/
